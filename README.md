@@ -1,36 +1,53 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<!DOCTYPE html>
+<html lang="en">
+<body>
+  <h1> Metaversus </h1>
+  <p>This project based on Task-01 Responsive landing page by Prodigy InfoTech Internship.
+    This project is a modern UI/UX design built using Next.js, Tailwind CSS, and Framer Motion for smooth animations. It's inspired by the Figma design at link to Figma design
+ </p>
+  
+  <h2>Features</h2>
+  <ul>
+      <li>Built with Next.js for static site generation capabilities.</li>
+      <li>Uses Tailwind CSS for rapid UI development.</li>
+      <li>Framer Motion for creating interactive and performant animations.</li>
+      <li>Implements the design elements like carousels , features ,Insight,world modals and much more. </li>
+ </ul>
+ 
+ <h2>Website</h2>
+ <p>Try it out on your devices <a href="https://prodigy-wd-01-4victorys-projects.vercel.app/">prodigy-wd-01-4victorys-projects.vercel.app</a></p>
 
-## Getting Started
+  <h2>Preview Images</h2>
 
-First, run the development server:
+  <p>Here are previews of the StopWatch on various screen sizes:</p>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+  <figure>
+    <figcaption><b>Navigation bar and Hero section</b></figcaption>
+    <img src="./public/s1.png" alt="herosection ">
+  </figure>
+  <figure>
+      <figcaption><b>Carousal</b></figcaption>
+    <img src="./public/s2.png" alt="Carousal ">
+  </figure>
+  <figure>
+      <figcaption><b>What`s new and how it works</b></figcaption>
+    <img src="./public/s3.png" alt="what`s new ">
+  </figure>
+  <figure>
+      <figcaption><b>People on the world</b></figcaption>
+    <img src="./public/s4.png" alt="People on the world">
+  </figure>
+  <figure>
+      <figcaption><b>Insights</b></figcaption>
+    <img src="./public/s5.png" alt="Carousal ">
+  </figure>
+  <figure>
+      <figcaption><b>Hero grid and Footer</b></figcaption>
+    <img src="./public/s6.png" alt="Footer ">
+  </figure>
+  
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+  <i><b><p>Happy coding!</p></b></i>
+</body>
+</html>
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
