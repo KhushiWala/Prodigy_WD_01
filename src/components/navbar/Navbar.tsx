@@ -28,7 +28,7 @@ const Navbar = () => {
         height={ 28 }
         width={ 28 }
       />
-      <h2 className="font-extrabold text-3xl leading-[30.24px] text-white">
+      <h2 className="font-extrabold text-2xl leading-[30.24px] text-white">
         METAVERSUS
       </h2>
       <Image

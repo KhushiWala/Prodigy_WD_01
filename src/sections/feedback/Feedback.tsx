@@ -58,7 +58,7 @@ const Feedback = (props: Props) => {
           <Image
             src={stamp}
             alt="stamp"
-            className="w-[155px] h-[155px] object-contain"
+            className="w-[155px] h-[155px] object-contain animate-spin-slow"
           />
         </motion.div>
       </motion.div>
